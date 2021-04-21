@@ -14,3 +14,13 @@ header, nav, article, section,footer{
     padding: 20px;
     background-color: lemonchiffon;
 }
+.takou span:first-child{
+    background-color: blueviolet;
+    width: 300px;
+    border: solid 1px red;
+    /* padding: 50px; */
+}
+.takou span:nth-child(2){
+    width: 200px;
+    border: seagreen 1px solid;
+}
